@@ -1,0 +1,8 @@
+body {
+    font-family: segoe-ui_normal,Segoe UI,Segoe,Segoe WP,Helvetica Neue,Helvetica,sans-serif;
+    padding-top: 50px;
+}
+
+h1, h2.likeAnH1 {
+    font-family: segoe-ui_light,Segoe UI Light,Segoe WP,Helvetica Neue,Helvetica,sans-serif;
+}
